@@ -1,0 +1,19 @@
+{
+    "name": "root/alipay_all",
+    "description": "try to make a package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Root\\AlipayAll\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaiwusheng",
+            "email": "xuxiangdong319@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
